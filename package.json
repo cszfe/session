@@ -1,5 +1,5 @@
 {
-  "name": "koa-session",
+  "name": "@ctrip/koa-session",
   "description": "Koa cookie session middleware with external store support",
   "repository": "koajs/session",
   "version": "5.9.0",
