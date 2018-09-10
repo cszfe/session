@@ -1,4 +1,29 @@
 
+5.9.0 / 2018-08-28
+==================
+
+**features**
+  * [[`7241400`](http://github.com/koajs/session/commit/724140076b65867b1a0cffee4f061971be8751c0)] - feat: Add autoCommit option (#139) (Jonas Galvez <<jonasgalvez@gmail.com>>)
+
+5.8.3 / 2018-08-22
+==================
+
+**fixes**
+  * [[`6f1a41c`](http://github.com/koajs/session/commit/6f1a41cf499f55532f0e7ce0de04d778a0466496)] - fix: session not works (#136) (吖猩 <<whxaxes@qq.com>>)
+
+**others**
+  * [[`95272ff`](http://github.com/koajs/session/commit/95272ff912af8dd31ae9f038df9540d8b6c019d7)] - fix typo in README.md (#134) (Maples7 <<maples7@163.com>>)
+
+5.8.2 / 2018-07-12
+==================
+
+**fixes**
+  * [[`c487944`](http://github.com/koajs/session/commit/c487944c22056fdd37433bdeab3d665dbd116744)] - fix: Fixes a bug that reset the cookie expire date to the default (1 day) when using browser sessions (maxAge: 'session') (#117) (Adriano <<adrianocola@gmail.com>>)
+
+**others**
+  * [[`9050605`](http://github.com/koajs/session/commit/90506055366a31205b0895592eb00d43f8d9da28)] - deps: Upgrade debug@^3.1.0 (#107) (Daniel Tseng <<s92f002@hotmail.com>>)
+  * [[`c48e1e0`](http://github.com/koajs/session/commit/c48e1e054566fe09c81ff50f530c6f230f07c7d5)] - Update Readme.md (#123) (Wellington Soares <<well.cco@gmail.com>>)
+
 5.8.1 / 2018-01-17
 ==================
 
